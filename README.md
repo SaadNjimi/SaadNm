@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Saad – Automotive Software Engineer in the Making 🚗💻
 
-<!--
-**SaadNjimi/SaadNjimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing my Master’s in Automotive Software Engineering at TU Chemnitz  
+🔧 Focused on Embedded Systems, Autonomous Driving, and Software-Defined Vehicles  
+🌍 Passionate about shaping the future of mobility with real-time, secure, and intelligent automotive systems
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 Embedded C/C++ | Python | ROS2 | Linux | CAN Bus | Real-Time Systems
+- 🤖 Autonomous Driving | ADAS | Image Understanding | Sensor Fusion
+- 🔒 Automotive Cybersecurity | OTA Updates | Vehicle Communication Protocols
+- 📊 Tools: Git, Docker, Simulink, MATLAB, PyTorch, OpenCV
+
+## 📂 Projects (More coming soon!)
+- 🔄 Autonomous Driving Stack in ROS2 + Carla
+- 🔐 CAN Bus Simulation + Security Demo
+- 🧠 Traffic Sign Recognition with Deep Learning
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/saad-nm-547b5835a/))
+- ✉️ Email: -
+
+---
+
+> 🚧 I'm currently working on building real-time autonomous systems and secure automotive platforms. Stay tuned!
