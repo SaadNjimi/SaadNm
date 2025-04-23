@@ -6,7 +6,7 @@
 
 ## 🚀 Skills & Interests
 
-- 🛠 Embedded C/C++ | Python | ROS2 | Linux | CAN Bus | Real-Time Systems
+- 🛠 Embedded C | Python | ROS2 | Linux | CAN Bus | Real-Time Systems
 - 🤖 Autonomous Driving | ADAS | Image Understanding | Sensor Fusion
 - 🔒 Automotive Cybersecurity | OTA Updates | Vehicle Communication Protocols
 - 📊 Tools: Git, Docker, Simulink, MATLAB, PyTorch, OpenCV
