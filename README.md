@@ -6,15 +6,15 @@
 
 ## 🚀 Skills & Interests
 
-- 🛠 Embedded C | Python | ROS2 | Linux | CAN Bus | Real-Time Systems
+- 🛠 Embedded C | Python | Linux | CAN Bus | Real-Time Systems
 - 🤖 Autonomous Driving | ADAS | Image Understanding | Sensor Fusion
 - 🔒 Automotive Cybersecurity | OTA Updates | Vehicle Communication Protocols
 - 📊 Tools: Git, Docker, Simulink, MATLAB, PyTorch, OpenCV
 
 ## 📂 Projects (More coming soon!)
-- 🔄 Autonomous Driving Stack in ROS2 + Carla
-- 🔐 CAN Bus Simulation + Security Demo
-- 🧠 Traffic Sign Recognition with Deep Learning
+- 🔄 AUTOSAR ECU Development 
+- 🔐 ECU Development with CAN Communication using VirtualCockpit and Microcontroller
+- 🧠 Autonomous Driving Stack 
 
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/saad-nm-547b5835a/))
