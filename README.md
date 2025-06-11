@@ -15,6 +15,8 @@
 - 🔄 ADAS Development with AUTOSAR 
 - 🔐 ECU Development with CAN Communication using VirtualCockpit and Microcontroller
 - 🧠 Autonomous Driving Stack 
+- 🤖 PyTorch-Based-NASDAQ-Trading-Model (Early 2024 Model)
+
 
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/saad-nm-547b5835a/))
