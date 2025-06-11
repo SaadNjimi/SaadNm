@@ -12,7 +12,7 @@
 - 📊 Tools: Git, Docker, Simulink, MATLAB, PyTorch, OpenCV
 
 ## 📂 Projects (More coming soon!)
-- 🔄 AUTOSAR ECU Development 
+- 🔄 ADAS Development with AUTOSAR 
 - 🔐 ECU Development with CAN Communication using VirtualCockpit and Microcontroller
 - 🧠 Autonomous Driving Stack 
 
