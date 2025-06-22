@@ -8,13 +8,13 @@
 
 - 🛠 Embedded C | Python | Linux | CAN Bus | Real-Time Systems
 - 🤖 Autonomous Driving | ADAS | Image Understanding | Sensor Fusion
-- 🔒 Automotive Cybersecurity | OTA Updates | Vehicle Communication Protocols
+- 🔒 Automotive Cybersecurity | Vehicle Communication Protocols
 - 📊 Tools: Git, Docker, Simulink, MATLAB, PyTorch, OpenCV
 
 ## 📂 Projects (More coming soon!)
 - 🔄 ADAS Development with AUTOSAR 
 - 🔐 ECU Development with CAN Communication using VirtualCockpit and Microcontroller
-- 🧠 Autonomous Driving Stack 
+- 🧠 Road Sign Recognition using CNNs on the GTSRB dataset
 - 🤖 PyTorch-Based-NASDAQ-Trading-Model (Early 2024 Model)
 
 
