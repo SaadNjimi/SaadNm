@@ -7,6 +7,7 @@
 🌐 Passionate about shaping the future of mobility with secure, real-time, and intelligent automotive systems
 
 
+
 🚀 Skills & Technologies
 
 Programming: Embedded C, C++, Python, SQL, JavaScript, PHP
@@ -17,9 +18,7 @@ Tools: SystemDesk, VirtualCockpit, AUTOSAR RTE, vECU, Git, Docker, MATLAB, Simul
 
 Machine Learning & Vision: PyTorch, TensorFlow, OpenCV, Keras
 
-Soft Skills: Scientific Communication, Analytical Thinking, Team Collaboration
 
-Languages: English 🇬🇧 | French 🇫🇷 | Turkish 🇹🇷 | Arabic 🇸🇦 | German 🇩🇪 (A2 - Learning)
 
 🧠 Featured Projects
 
